@@ -9,6 +9,6 @@ const count = options.length;
 const item = Math.floor(Math.random() * count);
 const date = moment().format("YYYY-MM-DD HH:mm:ss");
 const option = options[item];
-const response = `${date} >> ${option}`;
+const response = `${date} >> ${option}\n\nRecord upon completion.`;
 
 console.log(response);

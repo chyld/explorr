@@ -1,5 +1,2 @@
-a
-b
-c
-d
-e
+https://open.kattis.com/
+https://math.ly/
