@@ -1,2 +1,11 @@
-https://open.kattis.com/
-https://math.ly/
+CODE https://open.kattis.com/
+MATH https://math.ly/
+MATH BOOK Practical Statistics for Data Scientists
+MATH BOOK Introduction to Probability, Statistics and Random Processes
+MATH BOOK A Programmer's Introduction to Mathematics
+MATH https://seeing-theory.brown.edu/index.html
+CODE http://jeffe.cs.illinois.edu/teaching/algorithms/
+CODE https://courses.csail.mit.edu/6.006/fall11/notes.shtml
+CODE https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+2T2017/course/
+MATH https://www.ixl.com/math/
+STEM https://brilliant.org/
