@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/chyld/explorr#readme",
   "dependencies": {
-    "moment": "^2.23.0"
+    "moment": "^2.23.0",
+    "request": "^2.88.0"
   }
 }
