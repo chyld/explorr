@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Starting Explorr"
+cd ~/Code/explorr
+npm start
+echo "Finished"
+
